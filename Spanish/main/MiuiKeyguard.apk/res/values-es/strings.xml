@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
+  <string name="app_name">Pantalla de bloqueo</string>
+  <string name="click_to_enter_text">Toque para ver</string>
+  <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
+  <string name="custom_lock_wallpaper_enter">Entrar</string>
+  <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
+  <string name="delete">Eliminar</string>
+  <string name="emergency_call_string">Emergencia</string>
+  <string name="experimental_try_string">Probar</string>
+  <string name="experimental_validate">Validar</string>
+  <string name="experimental_validate_fail">"No se pudo iniciar sesión"</string>
+  <string name="experimental_validate_password">Contraseña</string>
+  <string name="experimental_validate_progress">Iniciando sesión…</string>
+  <string name="experimental_validate_thanks">¡Gracias!</string>
+  <string name="experimental_validate_username">Nombre de usuario</string>
+  <string name="experimental_validate_warning">¡Gracias por ayudar a hacer mejor MIUI!</string>
+  <string name="fingerprint_add_text">Se actualizó la interfaz de huellas dactilares. Agregue de nuevo su huella dactilar.</string>
+  <string name="fingerprint_add_title">Añadir huella dactilar</string>
+  <string name="fingerprint_again_identified_msg">Su huella digital está activa ahora. Úselo para desbloquear el dispositivo, o ingrese la contraseña.</string>
+  <string name="fingerprint_enter_second_psw_msg">Ingrese la segunda contraseña de espacio para poder usar el reconocimiento de huellas dactilares</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">No puede entrar en Segundo Espacio mientras esté en Modo Reducido</string>
+  <string name="fingerprint_enter_second_psw_title">Introduzca la contraseña del Segundo espacio</string>
+  <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduzca la contraseña ahora o pruebe a usar su huella digital en unos segundos.</string>
+  <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Introduzca la contraseña ahora.</string>
+  <string name="fingerprint_not_identified_title">No se puede leer la huella dactilar</string>
+  <string name="fingerprint_try_again_msg">"No se pudo verificar la huella digital, intente de nuevo."</string>
+  <string name="fingerprint_try_again_text">Inténtelo de nuevo</string>
+  <string name="forget_password_string">Olvidé la contraseña</string>
+  <string name="incorrect_pincode">Código PIN erróneo</string>
+  <string name="incorrect_pincode_remaining_attempts">Código PIN erróneo, %d intento(s) restante(s)</string>
+  <string name="incorrect_pukcode">Código PUK erróneo</string>
+  <string name="incorrect_pukcode_remaining_attempts">Código PUK erróneo, %d intento(s) restante(s)</string>
+  <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduzca su contraseña</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No se puede cambiar de espacio durante una llamada"</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Debe introducir el Primer espacio después de reiniciar el dispositivo.</string>
+  <string name="input_password_hint_text">Introduzca su contraseña</string>
+  <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
+  <string name="input_pin_code">PIN</string>
+  <string name="input_puk_code">Introducir PUK</string>
+  <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
+  <string name="invalid_sim_pin_hint">Introduzca un PIN que tenga entre 4 y 8 números</string>
+  <string name="invalid_sim_puk_hint">El código PUK debería tener 8 números o más</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Temp. batería</string>
+  <string name="keyguard_charging_info_battery_used_time_text">En la batería</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Falta %d hr para cargarse</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Falta %d min para cargarse</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Falta %d hr %d min para cargarse</string>
+  <string name="keyguard_charging_info_charging_text">Cargando</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Voltaje</string>
+  <string name="keyguard_charging_info_click_to_detail">Ver detalles</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Falta %d hr</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Falta %d min</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Falta %d hr %d min</string>
+  <string name="keyguard_charging_info_current_now_text">Amperaje</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Descargada</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Cargado completamente</string>
+  <string name="keyguard_charging_info_last_charge_time">H:mm d/M</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
+  <string name="keyguard_charging_info_tip_text1">Mantenga su dispositivo cargado al menos un 10% para prolongar la duración de la batería.</string>
+  <string name="keyguard_charging_info_tip_text2">"No sobrecargue el dispositivo. Múltiples cargas cortas son mejores que una carga durante la noche."</string>
+  <string name="keyguard_charging_info_tip_text3">Evite cargar el dispositivo cuando la temperatura ambiente es inferior a 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">"No utilice demasiado el dispositivo mientras se está cargando para evitar el sobrecalentamiento."</string>
+  <string name="keyguard_charging_info_tip_text5">Las baterías tardan más tiempo en cargar cuando se ponen más calientes que de costumbre.</string>
+  <string name="keyguard_charging_info_tip_text6">Apague la pantalla y ponga su dispositivo lejos para refrescarlo.</string>
+  <string name="keyguard_left_bankcard">Calculadora</string>
+  <string name="keyguard_left_buscard">Notas</string>
+  <string name="keyguard_left_remotecentral">Calendario</string>
+  <string name="keyguard_left_smarthome">Contactos</string>
+  <string name="keyguard_left_view_lock_wallpaper">Música</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toque para ver detalles.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Carga rápida…</string>
+  <string name="keyguard_torch_cover_text">Para mantener encendida la linterna, mantenga presionado el Botón de encendido.</string>
+  <string name="lock_screen_date">EEEE, d \'de\' MMMM</string>
+  <string name="lock_screen_date_12">EEEE, d \'de\' MMMM</string>
+  <string name="lock_wallpaper_enter">Entrar</string>
+  <string name="lock_wallpaper_learn_more">Entrar</string>
+  <string name="lock_wallpaper_see_more">Más</string>
+  <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
+  <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
+  <string name="lockscreen_access_pattern_detected">Patrón completado</string>
+  <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
+  <string name="lockscreen_charging_msg">Cargando</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">\"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
+
+Inténtelo de nuevo en %d segundos."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear con el dispositivo Bluetooth</string>
+  <string name="open_camera_hint_text">Deslizar hacia la izquierda para abrir la cámara</string>
+  <string name="open_remote_center_hint_text">Desliza hacia la derecha para abrir mi remote</string>
+  <string name="phone_locked_foget_password">¿Olvidó su contraseña?</string>
+  <string name="phone_locked_foget_password_content">"Puede iniciar sesión en i.mi.com utilizando la Cuenta Mi que está asociada con este dispositivo y borrar todos los datos. Esto borrará todos los datos personales almacenados en este dispositivo. Después de esto, puede reiniciar el dispositivo y restaurar contactos, mensajes, fotos y otros elementos de Mi Cloud.
+
+No podrás hacer esto a menos que hayas iniciado sesión en Cuenta Mi en este dispositivo. De lo contrario, tendrás que volver a encender el dispositivo."</string>
+  <string name="phone_locked_foget_password_footer">"Pasos:
+Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositivo y presione limpiar dispositivo "Wipe device"."</string>
+  <string name="phone_locked_foget_password_header">¿Qué debo hacer si olvido mi contraseña?</string>
+  <string name="phone_locked_foget_password_ok">Entendido</string>
+  <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
+  <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %d minuto(s)</string>
+  <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %d segundo(s)</string>
+  <string name="reset_device_detail_tip">Asegúrese de que la posición de su dispositivo en la base de carga sea correcta</string>
+  <string name="reset_device_tip">La carga es lenta. Ajusta su dispositivo.</string>
+  <string name="unlock_string">Desbloquear</string>
+  <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
+  <string name="unlockscreen_low_battery">Conecte el cargador</string>
+  <string name="unlockscreen_recharge_completed">Batería cargada</string>
+  <string name="unlockscreen_recharging_message">Cargando %d%%</string>
+  <string name="phone_locked_foget_password_method">¿Olvidaste tu contraseña?</string>
+  <string name="phone_locked_foget_password_mehod_back">Atrás</string>
+  <string name="phone_locked_foget_password_method_next">Siguiente</string>
+  <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
+  <string name="input_password_handle_sdcard_fs">Desactiva \"Optimización de la tarjeta SD emulada\" antes de entrar en el Segundo espacio.</string>
+  <string name="phone_locked_foget_password_method_content"><Data>Tiene que <font color="#a5220e">borrar todos los datos </font> de su dispositivo, incluyendo fotos y contactos, y establecer un nuevo bloqueo de pantalla.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apaga tu dispositivo, mantén pulsado el <font color="#a5220e">Botón de encendido </font> y el <font color="#a5220e">Botón de subir volumen </font>simultaneamente hasta que vea el logo de Xiaomi.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccione <font color="#a5220e">"Wipe y Reset"</font> y espere a que el dispositivo se reinicie.</Data></string>
+  <string name="face_data_input_title">Añadir datos faciales</string>
+  <string name="face_data_introduction_title">Reconocimiento facial</string>
+  <string name="face_data_introduction_msg">Los datos faciales se pueden usar para desbloquear su dispositivo o verificar su identidad. Agregue la contraseña de la pantalla de bloqueo antes de agregar sus datos faciales.</string>
+  <string name="face_data_introduction_next">Siguiente</string>
+  <string name="face_data_siggesstion_next">Siguiente</string>
+  <string name="face_data_siggesstion_next_time">Siguiente (%ds)</string>
+  <string name="face_data_suggesstion_first">Problemas de seguridad: El desbloqueo facial es menos seguro que un PIN, contraseña o patrón. Es posible que su dispositivo esté desbloqueado con su foto, así como con personas u objetos con una apariencia similar.</string>
+  <string name="face_data_suggesstion_second">Asegúrese de que todas las partes de su cara no estén cubiertas por objetos y que sean claramente visibles. Su rostro debe estar bien iluminado también.</string>
+  <string name="face_data_input_camera_fail">No se pudo cargar la cámara</string>
+  <string name="face_data_input_camera_ok">Cargando cámara…</string>
+  <string name="face_data_input_msg">Coloque su cara dentro del marco</string>
+  <string name="face_data_input_ok_title">Agregada exitosamente</string>
+  <string name="face_data_input_ok_msg">Encienda la pantalla para desbloquear el dispositivo usando sus datos faciales.</string>
+  <string name="face_data_input_ok_msg_angle">"Desbloquee el dispositivo con su cara cuando la pantalla esté encendida.
+(Grabe sus datos de rostro incluyendo todos los ángulos requeridos.)"</string>
+  <string name="face_data_input_cancel">Cancelar</string>
+  <string name="face_data_input_cancel_msg">No se pudieron agregar datos faciales</string>
+  <string name="face_data_input_ok">Hecho</string>
+  <string name="face_data_manage_delete_title">Datos faciales</string>
+  <string name="face_data_manage_delete_msg">Eliminar datos faciales</string>
+  <string name="face_data_manage_unlock_title">Desbloquear usando datos faciales</string>
+  <string name="face_data_manage_unlock_msg">Desbloquee el dispositivo usando sus datos faciales</string>
+  <string name="face_data_manage_delete">¿Eliminar datos faciales?</string>
+  <string name="face_data_manage_delete_sure">No podrá desbloquear el dispositivo utilizando sus datos faciales después de eliminarlo.</string>
+  <string name="face_unlock_by_notification_screen_on_title">Permitir desbloqueo facial cuando la pantalla se ilumina</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Puede desbloquear el dispositivo usando datos faciales siempre que la pantalla se encienda para las notificaciones entrantes. Esto puede descargar la batería más rápido.</string>
+  <string name="face_unlock_not_found">No lo reconozco</string>
+  <string name="face_unlock_adjust_distance">Asegúrese de que la distancia entre su cara y el dispositivo sea óptima.</string>
+  <string name="face_unlock_close_screen">Acérquese a la pantalla</string>
+  <string name="face_unlock_stay_away_screen">Manténgase de 25 a 40 cm de la pantalla</string>
+  <string name="face_unlock_be_on_the_screen">Mantenga el dispositivo frente a su cara</string>
+  <string name="face_unlock_identify_error">Se produjo un error de reconocimiento</string>
+  <string name="face_unlock_open_eye">Abra los ojos un poco más</string>
+  <string name="face_unlock_reveal_eye">Sus ojos deben estar visibles</string>
+  <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
+  <string name="face_unlock_check_failed">No lo reconozco</string>
+  <string name="btn_camera">Ingrese tu cara</string>
+  <string name="face_unlock_passwork">Usar contraseña</string>
+  <string name="face_unlock_passwork_and_fingerprint">Use contraseña o reconocimiento facial</string>
+  <string name="face_unlock_quality">"No se pudo ver claramente su cara"</string>
+  <string name="face_unlock_reenter_content">El algoritmo de desbloqueo facial se está actualizando. Toque para grabar datos faciales de nuevo.</string>
+  <string name="face_unlock_reenter_title">Registre sus datos de la cara otra vez.</string>
+  <string name="face_unlock_rise">Baje su cabeza</string>
+  <string name="unlock_failed">Error interno</string>
+  <string name="unlock_failed_face_not_found">Detectando</string>
+  <string name="unlock_camera_steady">Por favor manténgase</string>
+  <string name="face_unlock_offset_left">Muévase a la derecha</string>
+  <string name="face_unlock_offset_top">Levante su teléfono un poco</string>
+  <string name="face_unlock_offset_right">Muévase a la izquierda</string>
+  <string name="face_unlock_offset_bottom">Baje un poco su teléfono</string>
+  <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
+  <string name="face_unlock_rotated_right">Gire su cabeza hacia la izquierda</string>
+  <string name="face_unlock_down">Levante su cabeza</string>
+  <string name="wireless_charge_dialog_title">Coloque su dispositivo en el centro de la base de carga</string>
+  <string name="wireless_charge_stop">Detenida la carga inalámbrica</string>
+  <string name="wireless_current_charge">Cargando</string>
+  <string name="wrong_password">Contraseña incorrecta</string>
+</resources>

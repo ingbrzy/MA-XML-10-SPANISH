@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Navegar al inicio</string>
+  <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+  <string name="abc_action_menu_overflow_description">Más opciones</string>
+  <string name="abc_action_mode_done">Listo</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+  <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
+  <string name="abc_capital_off">APAGADO</string>
+  <string name="abc_capital_on">ENCENDIDO</string>
+  <string name="abc_search_hint">Buscar…</string>
+  <string name="abc_searchview_description_clear">Limpiar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+  <string name="abc_searchview_description_search">Buscar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Búsqueda de voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartir con</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="abc_toolbar_collapse_description">Colapsar</string>
+  <string name="albums">Álbumes</string>
+  <string name="allow_draw_overlays_title">Permitir mostrar la ventana del reproductor sobre otras apps</string>
+  <string name="allow_sdraw_overlays_description">El reproductor necesita que conceda este permiso para mostrar el video en una ventana sobre otras aplicaciones.</string>
+  <string name="allow_settings_access_brightness_description">El reproductor necesita este permiso para cambiar sus ajustes de brillo.</string>
+  <string name="allow_settings_access_brightness_title">Permitir al reproductor modificar los ajustes de brillo</string>
+  <string name="allow_settings_access_ringtone_description">El reproductor necesita que conceda este permiso para establecer esta canción como su tono de llamada.</string>
+  <string name="allow_settings_access_ringtone_title">Permitir al reproductor establecer el tono de llamada</string>
+  <string name="allow_storage_access_description">El reproductor necesita que conceda este permiso para acceder a los archivos de medios en este dispositivo.</string>
+  <string name="allow_storage_access_title">Permitir al reproductor acceder a los archivos de video y audio</string>
+  <string name="app_name">Vídeo</string>
+  <string name="artists">Artistas</string>
+  <string name="audio">Audio</string>
+  <string name="audio_delay">Retardo de audio</string>
+  <string name="back_quit_lock">Presione otra vez atrás para salir del video</string>
+  <string name="brightness">Brillo</string>
+  <string name="cancel">Cancelar</string>
+  <string name="common_google_play_services_unknown_issue">%1$s está teniendo problemas con Servicios de Google Play. Si el problema persiste, contacte al desarrollador para recibir ayuda.</string>
+  <string name="default_text">Por defecto</string>
+  <string name="delete">Eliminar</string>
+  <string name="delete_file_tips">¿Eliminar este archivo?</string>
+  <string name="details">Detalles</string>
+  <string name="dselect_all">Deseleccionar todo</string>
+  <string name="encountered_error_message">"El reproductor encontró un error con este medio.
+Por favor intente actualizar la biblioteca de medios."</string>
+  <string name="encountered_error_title">Error en la reproducción</string>
+  <string name="error_text_invalid_progressive_playback">"Este tipo de archivo no está soportado."</string>
+  <string name="exit_app">Cerrar el reproductor</string>
+  <string name="file">archivo</string>
+  <string name="file_details" formatted="false">"Tamaño: %s
+
+Duración: %s
+
+Última modificación: %s
+
+Ubicación: %s
+
+"</string>
+  <string name="filter">Filtro</string>
+  <string name="filter_file_tips">¿Filtrar este archivo?</string>
+  <string name="folder">Carpeta</string>
+  <string name="folder_up_tips">(Carpeta arriba)</string>
+  <string name="genres">Géneros</string>
+  <string name="hide">Ocultar</string>
+  <string name="hide_file_tips">¿Ocultar este archivo?</string>
+  <string name="hide_files_tips">Ocultar archivos</string>
+  <string name="hide_filter_folder_tips">Ocultar carpeta de filtros</string>
+  <string name="history">Historial</string>
+  <string name="home_tab_featured">Destacados</string>
+  <string name="home_tab_hot">De moda</string>
+  <string name="home_tab_local_video">Local</string>
+  <string name="illegal_input_tips">Entrada no válida</string>
+  <string name="invalid_location">La ubicación %1$s no pudo reproducirse.</string>
+  <string name="language_default">Idioma predeterminado</string>
+  <string name="last_added_media">Último agregado</string>
+  <string name="load_more_and_more">agrega más...</string>
+  <string name="loading">Cargando</string>
+  <string name="locked">Bloqueado</string>
+  <string name="more">Más</string>
+  <string name="more_file_details" formatted="false">"Tamaño: %s
+
+Duración: %s 
+
+"</string>
+  <string name="network_stream">Flujo de red</string>
+  <string name="no_filter_folder_tips">Ninguna carpeta de filtro</string>
+  <string name="no_folder_found">No se encontraron carpetas de vídeo</string>
+  <string name="no_hidden_files_tips">No hay archivos ocultos</string>
+  <string name="no_search_found">No se han encontrado resultados</string>
+  <string name="no_videos_found">No se encontraron vídeos</string>
+  <string name="ok">Aceptar</string>
+  <string name="online">En línea</string>
+  <string name="open">Abrir</string>
+  <string name="open_subtitle_file">Abrir archivo de subtítulos</string>
+  <string name="other">Otros</string>
+  <string name="over_load_more">agrega más</string>
+  <string name="pause">Pausar</string>
+  <string name="permission_ask_again">Dar permisos</string>
+  <string name="playlists">Listas de reproducción</string>
+  <string name="please_wait">Un segundo…</string>
+  <string name="refresh">Refrescar</string>
+  <string name="remove">Eliminar</string>
+  <string name="rename">Renombrar</string>
+  <string name="rename_file">Renombrar Archivo</string>
+  <string name="rename_folder">Renombrar Carpeta</string>
+  <string name="rename_hidden_error">El archivo se ocultará</string>
+  <string name="replace_num_files">%d archivos</string>
+  <string name="replace_num_videos">%d Videos</string>
+  <string name="ringtone_error">Ocurrió un error al establecer el tono de llamada.</string>
+  <string name="ringtone_set">"Se estableció el archivo '%1$s' como tono de llamada."</string>
+  <string name="sdcard_text">Tarjeta SD</string>
+  <string name="search">Buscar</string>
+  <string name="search_history">Buscar en el historial</string>
+  <string name="search_null_text">Por favor escriba una palabra clave</string>
+  <string name="select_all">Seleccionar todo</string>
+  <string name="send">Compartir</string>
+  <string name="settings">Ajustes</string>
+  <string name="show_all_files_tips">Mostrar todos los archivos</string>
+  <string name="show_all_folder_tips">Mostrar todas las carpetas</string>
+  <string name="small_a">A</string>
+  <string name="songs">Canciones</string>
+  <string name="sound_off">Apagar sonido</string>
+  <string name="sound_on">Encender sonido</string>
+  <string name="spu_delay">Retraso subtítulo</string>
+  <string name="subtitle">Subtítulo</string>
+  <string name="subtitle_color_text">Color del subtítulo</string>
+  <string name="subtitle_font_tips">Tamaño de fuente del subtítulo</string>
+  <string name="subtitles">Subtítulos</string>
+  <string name="synchronization">Sincronización</string>
+  <string name="toast_player_list_header">Lista de reproducción</string>
+  <string name="toast_player_list_none">No hay más contenido</string>
+  <string name="toast_screen_text_add">Añadido con éxito</string>
+  <string name="toast_screen_text_default">Tamaño Predeterminado</string>
+  <string name="toast_screen_text_full">Pantalla Completa</string>
+  <string name="toast_screen_text_horizontal">Escala horizontal</string>
+  <string name="toast_screen_text_scaling">Escala</string>
+  <string name="toast_screen_text_stream">Haga clic en el botón de secuencia</string>
+  <string name="toast_screen_text_vertical">Escala vertical</string>
+  <string name="track_audio">Pista de audio</string>
+  <string name="track_text">Pista de subtítulos</string>
+  <string name="track_unknown">Pista desconocida</string>
+  <string name="track_video">Pista de video</string>
+  <string name="unknown_album">Álbum Desconocido</string>
+  <string name="unknown_artist">Artista Desconocido</string>
+  <string name="unknown_genre">Género Desconocido</string>
+  <string name="unlocked">Desbloqueado</string>
+  <string name="unseekable_stream">Flujo no buscable</string>
+  <string name="v7_preference_off">APAGADO</string>
+  <string name="v7_preference_on">ENCENDIDO</string>
+  <string name="video">Vídeo</string>
+  <string name="video_error_network_not_available">"No se pudo conectar a la red"</string>
+  <string name="video_error_text_unknown">Ocurrió un error desconocido.</string>
+  <string name="video_error_title">Error desconocido</string>
+  <string name="video_file_details" formatted="false">%d Videos | %s</string>
+  <string name="videos">Videos</string>
+  <string name="volume">Volumen</string>
+  <string name="wrapper_footer_text">Se alcanzó el final de la página</string>
+</resources>

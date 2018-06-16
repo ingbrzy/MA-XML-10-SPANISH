@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Los subtítulos están movídos %.1f segundos hacia adelante</item>
+        <item quantity="one">Los subtítulos están movídos %.1f segundo hacia adelante</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Los subtítulos están retrasados %.1f segundos</item>
+        <item quantity="one">Los subtítulos están retrasados %.1f segundo</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Tamaño: %.2fKB</item>
+        <item quantity="one">Tamaño: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+</resources>
