@@ -3,7 +3,7 @@ REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
 XML checking script | Validador XML:
 
-http://translators.xiaomi.eu/XML_MIUI9-Spanish-es.html
+https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html
 
 Latest XML changes from originals values to translate | Últimos cambios hechos al repositorio original en Inglés para añadir y traducir:
 
