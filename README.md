@@ -7,11 +7,11 @@ https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html
 
 Latest XML changes from originals values to translate | Últimos cambios hechos al repositorio original en Inglés para añadir y traducir:
 
-https://github.com/ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare
+https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare
 
 What's new in our repository?  | Últimas actualizaciones al repositorio en Español:
 
-https://github.com/ingbrzy/MA-XML-9.0-SPANISH/commits/master
+https://github.com/ingbrzy/MA-XML-10-SPANISH/commits?author=Infante007
 
 Special thanks to the active translators volunteers:
 @Infante007, @nosijf982, @rdgi, @Muchachito
