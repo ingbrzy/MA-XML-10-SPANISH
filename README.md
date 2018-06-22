@@ -14,7 +14,7 @@ What's new in our repository?  | Últimas actualizaciones al repositorio en Espa
 https://github.com/ingbrzy/MA-XML-10-SPANISH/commits?author=Infante007
 
 Special thanks to the active translators volunteers:
-@Infante007, @nosijf982, @rdgi, @Muchachito
+@Infante007, @nosijf982, @rdgi, @Muchachito, @BadWolf, @Modder_Ps4, @Irp149
 
 # If you want to help in translations, please contact @Infante007, @ingbrzy or create a issue in this repository for further details.
 

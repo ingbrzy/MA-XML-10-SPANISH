@@ -56,7 +56,7 @@
   <string name="mobiledata_alert_dialog_message">¿Conectarse a Internet para calibrar la altitud?</string>
   <string name="mobiledata_alert_dialog_title">Alerta de uso de datos</string>
   <string name="open_perm_msg">Compass necesita acceder a la camara y el GPS. Es necesario para obtener las coordenadas y una vista previa. Permitir?</string>
-+  <string name="open_perm_title">Permisos requeridos</string>
+  <string name="open_perm_title">Permisos requeridos</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Presión</string>
   <string name="pressure_unit">hPa</string>
