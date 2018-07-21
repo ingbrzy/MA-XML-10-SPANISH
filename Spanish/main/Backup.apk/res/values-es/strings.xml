@@ -394,15 +394,15 @@ Libere por lo menos %s."</string>
   <string name="trans_backingup">Copiando…</string>
   <string name="trans_backingup_no_items">Sincronizando…</string>
   <string name="trans_button_cancel">Cancelar</string>
-  <string name="trans_button_exit"/>
-  <string name="trans_button_stay"/>
+  <string name="trans_button_exit">Salir</string>
+  <string name="trans_button_stay">Mantener</string>
   <string name="trans_calculating">Calculando…</string>
   <string name="trans_calculating_app_sd_description">Datos en tarjeta SD</string>
   <string name="trans_calculating_media_description">Ficheros Multimedia</string>
   <string name="trans_calculating_tip">Calculando %s…</string>
   <string name="trans_cancel_confirm">Transferencia en progreso, ¿cancelar ahora?</string>
-  <string name="trans_cancel_selection_message"/>
-  <string name="trans_cancel_selection_title"/>
+  <string name="trans_cancel_selection_message">Si sales de Mi Mover, la transferencia será interrumpida. Espere a que se complete la transferencia</string>
+  <string name="trans_cancel_selection_title">Esperar</string>
   <string name="trans_cancelling">Cancelando</string>
   <string name="trans_connect_failed_device_incompatible">El dispositivo no es compatible. Cancele la transferencia e inténtelo otra vez.</string>
   <string name="trans_connect_failed_message">La conexión falló, intente de nuevo o reinicie. En el otro dispositivo vaya a Ajustes &gt; Ajustes adicionales &gt; Transferencia, toque [Enviar], o vuelva a abrir la aplicación después del reinicio</string>
@@ -548,8 +548,8 @@ Los archivos similares se sobrescribirán"</string>
 Seleccione solo los ficheros importantes para agilizar el proceso."</string>
   <string name="trans_select_device_receive">Selecciona un dispositivo para recibir datos.</string>
   <string name="trans_select_device_send">Selecciona un dispositivo para transferir datos.</string>
-  <string name="trans_select_notification_message"/>
-  <string name="trans_select_notification_title"/>
+  <string name="trans_select_notification_message">Pulse para ver</string>
+  <string name="trans_select_notification_title">Mi Mover está trabajando</string>
   <string name="trans_sender">Enviar</string>
   <string name="trans_sender_connectting">Confirmar en el nuevo dispositivo</string>
   <string name="trans_sender_searching">Buscando nuevos dispositivos</string>
