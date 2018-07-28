@@ -6,6 +6,85 @@
     <item>Intentando habilitar WLAN</item>
     <item>Intentando activar BT</item>
   </string-array>
+   <string-array name="emailAddressTypes">	
+    <item>Casa</item>	
+    <item>Trabajo</item>	
+    <item>Otros</item>	
+    <item>Personalizado</item>	
+  </string-array>	
+  <string-array name="fingerprint_acquired_vendor">	
+    <item>Vuelve a intentarlo</item>	
+    <item></item>	
+    <item></item>	
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>	
+    <item></item>	
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>	
+    <item>La cubierta del escáner de huellas digitales completamente y aplique presión</item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>	
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>	
+    <item>"¡ demasiado rápido! No podía reconocer huella dactilar"</item>	
+    <item>Mueve un poco el dedo y vuelve a intentarlo</item>	
+    <item>Levante el dedo y vuelva a ponerlo en el escáner</item>	
+    <item>Mantenga su dedo en el escáner un poco más</item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item></item>	
+    <item>Mueve el dedo ligeramente</item>	
+    <item>Esta huella dactilar se ha añadido, utilizar un dedo diferente</item>	
+  </string-array>	
+  <string-array name="imAddressTypes">	
+    <item>Casa</item>	
+    <item>Trabajo</item>	
+    <item>Otros</item>	
+    <item>Personalizado</item>	
+  </string-array>	
+  <string-array name="imProtocols">	
+    <item>AIM</item>	
+    <item>Windows Live</item>	
+    <item>Yahoo</item>	
+    <item>Skype</item>	
+    <item>QQ</item>	
+    <item>Google Talk</item>	
+    <item>ICQ</item>	
+    <item>Jabber</item>	
+  </string-array>	
+  <string-array name="network_switch_type_name">	
+    <item>datos móviles</item>	
+    <item>WLAN</item>	
+    <item>Bluetooth</item>	
+    <item>Ethernet</item>	
+    <item>VPN</item>	
+  </string-array>
+  <string-array name="organizationTypes">	
+    <item>Trabajo</item>	
+    <item>Otros</item>	
+    <item>Personalizado</item>	
+  </string-array>	
+  <string-array name="phoneTypes">	
+    <item>Casa</item>	
+    <item>Móvil</item>	
+    <item>Trabajo</item>	
+    <item>Fax de trabajo</item>	
+    <item>Fax de casa</item>	
+    <item>Buscapersonas</item>	
+    <item>Otros</item>	
+    <item>Personalizado</item>	
+  </string-array>	
+  <string-array name="postalAddressTypes">	
+    <item>Casa</item>	
+    <item>Trabajo</item>	
+    <item>Otros</item>	
+    <item>Personalizado</item>	
+  </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
     <item>Para hacer llamadas y enviar mensajes a través de WLAN, primero pídale a su operador que configure este servicio. A continuación, activar la llamada WLAN de nuevo desde la configuración.</item>
   </string-array>
