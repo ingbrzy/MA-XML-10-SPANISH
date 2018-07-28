@@ -98,8 +98,8 @@ Después de crear una nueva pregunta de seguridad y confirma su fecha de nacimie
   <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">Consiguiendo información de la copia de seguridad…</string>
   <string name="compute_delete_contact_info">Buscando contactos que eliminar…</string>
-  <string name="connect_wifi">Conectar a WLAN</string>
-  <string name="connect_wifi_tip">"No se pudo conectar a la red. Conectarse a la WLAN para importar los elementos a iCloud."</string>
+  <string name="connect_wifi">Conectar a red Wi-Fi</string>
+  <string name="connect_wifi_tip">"No se pudo conectar a la red. Conectarse a la red Wi-Fi para importar los elementos a iCloud."</string>
   <string name="contact_title">Contactos</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Almohadilla</string>
@@ -194,8 +194,8 @@ No cambie o renombre los ficheros."</string>
   <string name="icloud_how_to_backup_tip_title">Consejos:</string>
   <string name="icloud_login_title">Iniciar sesión en iCloud</string>
   <string name="icloud_need_sync">Para importar datos desde iOS, debe crear una copia de seguridad iCloud.</string>
-  <string name="icloud_need_wifi_message">"No estás conectado a WLAN ahora. Para importar datos de icloud, conéctese a WLAN."</string>
-  <string name="icloud_need_wifi_title">Conectar a WLAN</string>
+  <string name="icloud_need_wifi_message">"No estás conectado a Wi-Fi ahora. Para importar datos de icloud, conéctese a Wi-Fi."</string>
+  <string name="icloud_need_wifi_title">Conectar a Wi-Fi</string>
   <string name="import_again">Importar de nuevo</string>
   <string name="import_data_from_icloud">Importar datos de iCloud</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga MiTalk e inicia sesión.
@@ -251,7 +251,7 @@ No cambie o renombre los ficheros."</string>
   <string name="notif_icloud_loaded_summary">Esperando...</string>
   <string name="notif_icloud_loading_summary">Cargando datos...</string>
   <string name="notif_icloud_logining">Iniciar sesión en iCloud en el antiguo dispositivo iOS...</string>
-  <string name="notif_icloud_need_wifi_summary">Esperando WLAN</string>
+  <string name="notif_icloud_need_wifi_summary">Esperando Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Importado correctamente</string>
   <string name="notif_icloud_saving_summary">Restaurando datos...</string>
   <string name="notif_miasist_try_to_connect">Mi PC Suite está intentando conectarse a su dispositivo</string>
@@ -312,7 +312,7 @@ No cambie o renombre los ficheros."</string>
   <string name="save_finish_with_failing_items">"la transferencia fue interrumpida.
 Los datos que no se importaron deben ser importados de nuevo. "</string>
   <string name="saving_data">"importando datos de iCloud...
-No apague WLAN "</string>
+No apague Wi-Fi "</string>
   <string name="saving_data_no_time">Restaurando datos...</string>
   <string name="saving_data_space_low">"no hay suficiente espacio de almacenamiento.
 Libere por lo menos %s."</string>
@@ -454,7 +454,7 @@ para descargar e instalar Mi Mover."</string>
   <string name="trans_intro_desc_1">\"En un teléfono Mi, conéctese a Wi-Fi y toque \"Soy un destinatario\". Seleccione su dispositivo iOS, inicie sesión en iCloud e importe datos\".</string>
   <string name="trans_intro_desc_3">Mi Mover usa Wi-Fi para transferir archivos. Esa es la razón por lo que no puede conectarse a internet usando Wi-Fi ni en ninguno de los dispositivos durante la transferencia. Puede incluso usar los datos móviles. Sin embargo, algunos dispositivos nuevos (por ejemplo, Mi 6) son capaces de conectarse a internet using Wi-Fi durante las transferencias.</string>
   <string name="trans_intro_desc_4">El espacio de almacenamiento en los dispositivos viejos es usado para crear paquetes de transferencia. Asegúrese de tener al menos 500MB - 1GB libres de almacenamiento en su viejo dispositivo antes de que comienze una transferencia.</string>
-  <string name="trans_intro_desc_4_market">"Mi Mover usa WLAN para transferir archivos. Es por eso que no puedes conectarte a internet usando WLAN en ninguno de los dispositivos durante una transferencia. Sin embargo, aún puede usar datos móviles."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover usa Wi-Fi para transferir archivos. Es por eso que no puedes conectarte a internet usando Wi-Fi en ninguno de los dispositivos durante una transferencia. Sin embargo, aún puede usar datos móviles."</string>
   <string name="trans_intro_desc_5">Hay varias razones por las que esto puede ocurrir: problemas de compatibilidad de las versiones de sistema y aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
   <string name="trans_intro_desc_6">Algunos perfiles de aplicación (e-banking, finanzas, etc.) están asociados con un dispositivo específico debido a razones de seguridad. Intene limpiar los datos de la aplicación o reinstale la aplicación en un nuevo dispositivo.</string>
   <string name="trans_intro_desc_7">Es posible que los datos de la aplicación WeChat y el historial de chats no se transfieran completamente usando Mi Mover. Vaya a los ajustes de WeChat y salga de la sesión para tener más oportunidades de una transferencia exitosa.</string>
@@ -565,7 +565,7 @@ No apagues el punto de acceso Wi-Fi. Mantén los dispositivos cerca."</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Valorar Mi Mover</string>
   <string name="trans_success_dialog_market_comment_title">"Su nuevo dispositivo esta ahora a su gusto.
 le ha gustado Mi Mover?"</string>
-  <string name="trans_switching_5g">Cambiar a WLAN de 5GHz…</string>
+  <string name="trans_switching_5g">Cambiar a Wi-Fi de 5GHz…</string>
   <string name="trans_time_format_second">menos de un minuto</string>
   <string name="trans_time_spent">"Tiempo consumido: %s"</string>
   <string name="trans_wait_trans_data">"Conectado al dispositivo anterior.
@@ -573,8 +573,8 @@ Esperando la transferencia…"</string>
   <string name="trans_waiting_ensurance">"Asegúrate de que el dispositivo anterior
 está encendido y la Transferencia activada"</string>
   <string name="trans_waiting_for_sender">Esperando que el dispositivo antiguo se pueda conectar…</string>
-  <string name="trans_wlan_tips_message">"No apague Wi-Fi o cambiar a otras redes WLAN durante la transferencia. De lo contrario, Mi Mover no podrá transferir datos."</string>
-  <string name="trans_wlan_tips_title">"No apague WLAN"</string>
+  <string name="trans_wlan_tips_message">"No apague Wi-Fi o cambiar a otras redes Wi-Fi durante la transferencia. De lo contrario, Mi Mover no podrá transferir datos."</string>
+  <string name="trans_wlan_tips_title">"No apague el Wi-Fi"</string>
   <string name="unit_byte">B</string>
   <string name="unknown_hint">Desconocido</string>
   <string name="usb_backup_select_data_too_large">"Los elementos elegidos son demasiado grandes, asegurese de que su unidad USB tiene suficiente espacio.
@@ -594,7 +594,6 @@ Libere espacio o transfiera unicamente lo importante."</string>
   <string name="user_notice_title">Aviso</string>
   <string name="view_password_description">Mostrar contraseña</string>
   <string name="wifi_title">Configuración Wi-Fi</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona correctamente."</string>
   <string name="xiaomi_external_storage_unavailable">"El almacenamiento no está disponible, compruebe su tarjeta SD."</string>

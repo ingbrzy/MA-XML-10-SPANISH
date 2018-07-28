@@ -159,7 +159,7 @@
   <string name="online_precust_tiny">Pequeño</string>
   <string name="online_search_hint">Buscar recursos en línea</string>
   <string name="present_local_themes">Mis recursos</string>
-  <string name="present_official_themes">Nuestras selecciones</string>
+  <string name="present_official_themes">Recomendados</string>
   <string name="present_online_themes">Consigue más temas online</string>
   <string name="provision_default_theme_title">Por defecto</string>
   <string name="provision_loading_tips">Un momento…</string>

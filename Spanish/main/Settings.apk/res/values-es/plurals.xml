@@ -291,8 +291,8 @@ Para más información sobre este certificado, contacte con su administrador.  "
     <item quantity="one">%d riesgo encontrado</item>
   </plurals>
   <plurals name="wifi_saved_access_points_summary">
-    <item quantity="other">%d networks</item>
-    <item quantity="one">1 network</item>
+    <item quantity="other">%d redes</item>
+    <item quantity="one">1 red</item>
   </plurals>
   <plurals name="wifi_share_count">
     <item quantity="other">%d redes compartidas</item>

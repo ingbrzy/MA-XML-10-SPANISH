@@ -217,4 +217,11 @@
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
   </string-array>
+  <string-array name="miui_volume_timer_segments_title">
+	<item>Apagado</item>
+	<item>30 minutos</item>
+	<item>1 hora</item>
+	<item>2 horas</item>
+	<item>8 horas</item>
+  </string-array>
 </resources>

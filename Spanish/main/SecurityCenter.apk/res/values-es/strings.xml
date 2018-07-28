@@ -1106,7 +1106,7 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="lucky_alarm_sound_title">Recordatorio de sonido de actividad</string>
   <string name="lucky_assistant_description">"Producto oficial de Millet
 WeChat / QQ / rice chat agarra artefacto envolvente rojo
-No admite alertas para grupos bloqueados y software para activar el inicio de sesión de la computadora para DND"</string>
+No admite alertas para grupos bloqueados y software para activar el inicio de sesión de la computadora para No molestar"</string>
   <string name="lucky_max_chat_title">QQ</string>
   <string name="lucky_money_group_summary">No es necesario robar los paquetes rojos enviados por personas. Se recomienda que solo recuerde al grupo de sobres rojos para evitar recordatorios excesivos</string>
   <string name="lucky_my_luckymoney">Mi registro de sobre rojo</string>
@@ -2089,7 +2089,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_data_flow">Controlar el uso de datos móviles para evitar cargos adicionales</string>
   <string name="summary_default_app">%s no está establecidad como aplicación por defecto del sistema </string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
-  <string name="summary_do_not_disturb">"Estás usando el modo DND. Toque para arreglar."</string>
+  <string name="summary_do_not_disturb">"Estás usando el modo No molestar. Toque para arreglar."</string>
   <string name="summary_eye_shield">"Estás usando el modo de lectura. Toque para arreglar."</string>
   <string name="summary_find_device">Localizar y bloquear el dispositivo desde cualquier lugar</string>
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
@@ -2475,4 +2475,10 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
   <string name="xunyou_pay_webview">Servicios Xunyou</string>
   <string name="xunyou_server_expired">La sesión caducó.</string>
   <string name="zhifubao_not_found">Tu aplicación es demasiado vieja o no está instalada</string>
+  <string name="ask_create_shortcut">¿Crear un acceso directo en la pantalla de inicio?</string>
+  <string name="fod_authentication_shift_button">Cancelar</string>
+  <string name="fod_button_finger">Usar huella digital</string>
+  <string name="fod_button_password">Introducir contraseña</string>
+  <string name="fod_finger_windows_tips">Compruebe su huella digital</string>
+  <string name="fod_finger_notice_title">Ponga el dedo en el lector</string>
 </resources>

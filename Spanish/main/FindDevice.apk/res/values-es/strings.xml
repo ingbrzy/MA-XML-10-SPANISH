@@ -41,7 +41,7 @@ Póngase en contacto con su agente de ventas para obtener más detalles. "</stri
   <string name="lock_msg_phone">Información de contacto: %s</string>
   <string name="login_extra_steps">Verificación del inicio de sesión</string>
   <string name="login_failed">No se pudo iniciar sesión. %s.</string>
-  <string name="open_wifi_settings">Abrir configuración de WLAN</string>
+  <string name="open_wifi_settings">Abrir configuración de Wi-Fi</string>
   <string name="passport_checking_vcode">Comprobando contraseña…</string>
   <string name="passport_error_empty_vcode">Introduzca código de verificación</string>
   <string name="passport_notification_need_unlock_again">Trate de desbloquear de nuevo</string>

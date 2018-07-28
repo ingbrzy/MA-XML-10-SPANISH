@@ -950,7 +950,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
   <string name="notification_channel_device_admin">Administración de dispositivos</string>
   <string name="notification_channel_emergency_callback">Modo de devolución de llamada de emergencia</string>
   <string name="notification_channel_foreground_service">Aplicaciones que se ejecutan en segundo plano</string>
-  <string name="notification_channel_hotspot">Notificación WLAN HotSpot</string>
+  <string name="notification_channel_hotspot">Notificación Wi-Fi HotSpot</string>
   <string name="notification_channel_mobile_data_alert">Alertas de datos móviles</string>
   <string name="notification_channel_network_alert">Alertas</string>
   <string name="notification_channel_network_alerts">Alertas de red</string>
@@ -965,7 +965,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
   <string name="notification_channel_virtual_keyboard">Teclado virtual</string>
   <string name="notification_channel_voice_mail">Mensajes de correo de voz</string>
   <string name="notification_channel_vpn">Estado de VPN</string>
-  <string name="notification_channel_wfc">Llamadas WLAN</string>
+  <string name="notification_channel_wfc">Llamadas Wi-Fi</string>
   <string name="notification_header_divider_symbol">•</string>
   <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_hidden_by_policy_text">Contenidos ocultos por política</string>
@@ -1705,4 +1705,17 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="zen_mode_forever_dnd">Hasta que desactives la opción No molestar</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Hasta las %1$s</string>
+  <string name="EmergencyCallWarningSummary">Las llamadas de emergencia necesitan una red móvil.</string>
+  <string name="EmergencyCallWarningTitle">Las llamadas Wi-Fi está activa</string>
+  <string name="notification_reply_button_accessibility">Responder</string>
+  <string name="popup_window_default_title">Ventana emergente</string>
+  <string name="usb_unsupported_audio_accessory_message">El dispositivo conectado no es compatible con este teléfono. Toque para obtener más información.</string>
+  <string name="usb_unsupported_audio_accessory_title">Se detectó un accesorio de audio analógico</string>
+  <string name="wifi_available_action_all_networks">Todas las redes</string>
+  <string name="wifi_available_action_connect">Conectar</string>
+  <string name="wifi_available_content_failed_to_connect">Pulse para ver todas las redes</string>
+  <string name="wifi_available_title">Conectarse a una red Wi-Fi abierta</string>
+  <string name="wifi_available_title_connected">Conectado a una red Wi-Fi</string>
+  <string name="wifi_available_title_connecting">Conectando a una red Wi-Fi abierta</string>
+  <string name="wifi_available_title_failed_to_connect">No se pudo conectar a la red Wi-Fi</string>
 </resources>

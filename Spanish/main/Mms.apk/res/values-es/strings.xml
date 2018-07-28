@@ -712,4 +712,15 @@ Intentos realizados: %s"</string>
   <string name="yellowpage_recommend_msg">Comprueba las características de la mensajería MIUI</string>
   <string name="yes">Aceptar</string>
   <string name="yesterday">Ayer</string>
+  <string name="notification_channel_msg_description">Notificación de mensaje</string>
+  <string name="notification_channel_msg_name">Mensaje</string>
+  <string name="notification_channel_other_description">Notificación de no mensaje</string>
+  <string name="notification_channel_other_description">Notificación de no mensaje</string>
+  <string name="notification_channel_other_name">Otro</string>
+  <string name="notification_channel_sim1_description">Notificación de mensaje de la SIM 1</string>
+  <string name="notification_channel_sim1_name">Mensaje de la SIM 1</string>
+  <string name="notification_channel_sim2_description">Notificación de mensaje de la SIM 2</string>
+  <string name="notification_channel_sim2_name">Mensaje de la SIM 2</string>
+  <string name="notification_group_name">Mensajería</string>
+  <string name="unsubscribe">Darse de baja</string>
 </resources>

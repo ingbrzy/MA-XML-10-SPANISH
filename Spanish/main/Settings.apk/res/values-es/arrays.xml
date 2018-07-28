@@ -1145,22 +1145,22 @@
     <item>Configurar ciclo de uso…</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Today (data)</item>
-    <item>This month (data)</item>
-    <item>Last month (data)</item>
-    <item>Today WLAN</item>
-    <item>This month WLAN</item>
-    <item>Last month WLAN</item>
+    <item>Hoy (datos)</item>
+    <item>Este mes (datos)</item>
+    <item>Último mes (datos)</item>
+    <item>Hoy Wi-Fi</item>
+    <item>Este mes Wi-Fi</item>
+    <item>Último Wi-Fi</item>
   </string-array>
   <string-array name="date_of_traffic">
-    <item>"Today "</item>
-    <item>"This month "</item>
-    <item>"Last month "</item>
+    <item>"Hoy "</item>
+    <item>"Este mes "</item>
+    <item>"Último mes "</item>
   </string-array>
   <string-array name="date_of_traffic_prefix">
-    <item>"Today: "</item>
-    <item>"This month: "</item>
-    <item>"Last month: "</item>
+    <item>"Hoy: "</item>
+    <item>"Este mes: "</item>
+    <item>"Último mes: "</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Apagado</item>
@@ -1829,14 +1829,9 @@
     <item>modo normal</item>
     <item>modo extremo</item>
   </string-array>
-  <string-array name="traffic_balance_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="traffic_type">
-    <item>"Mobile usage "</item>
-    <item>"WLAN usage "</item>
+    <item>"Uso datos móviles "</item>
+    <item>"Uso Wi-Fi "</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animación apagado</item>
@@ -1952,10 +1947,6 @@
     <item>VPN IPSec con certificados y autenticación Xauth</item>
     <item>VPN IPSec con certificados y autenticación híbrida</item>
   </string-array>
-  <string-array name="wapi_psk_type">
-    <item>@string/wapi_psk_type_ascii</item>
-    <item>@string/wapi_psk_type_hex</item>
-  </string-array>
   <string-array name="wfd_status">
     <item>Iniciando sesión…</item>
     <item>Sesión iniciada</item>
@@ -1970,48 +1961,23 @@
     <item>Medio</item>
     <item>Alto</item>
   </string-array>
-  <string-array name="wifi_ap_band_config_2G_5G">
-    <item>@string/wifi_ap_choose_2G</item>
-    <item>@string/wifi_ap_choose_5G</item>
-  </string-array>
-  <string-array name="wifi_ap_band_config_2G_only">
-    <item>@string/wifi_ap_choose_2G</item>
-  </string-array>
-  <string-array name="wifi_ap_band_config_full">
-    <item>@string/wifi_ap_choose_2G</item>
-    <item>@string/wifi_ap_choose_5G</item>
-    <item>@string/wifi_ap_choose_dual</item>
-  </string-array>
-  <string-array name="wifi_ap_security">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wpa2</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
-    <item>WLAN preferred</item>
-    <item>Mobile preferred</item>
-    <item>WLAN only</item>
+    <item>Wi-Fi preferido</item>
+    <item>Móvil preferido</item>
+    <item>Solo Wi-Fi</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_v2">
-    <item>WLAN</item>
-    <item>Mobile</item>
-    <item>WLAN only</item>
+    <item>Wi-Fi</item>
+    <item>Móvil</item>
+    <item>Solo Wi-Fi</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-    <item>WLAN</item>
-    <item>Mobile</item>
+    <item>Wi-Fi</item>
+    <item>Móvil</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_without_wifi_only">
-    <item>WLAN preferred</item>
-    <item>Mobile preferred</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values_without_wifi_only">
-    <item>2</item>
-    <item>1</item>
+    <item>Wi-Fi preferido</item>
+    <item>Móvil preferido</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Conectar automáticamente</item>
@@ -2090,21 +2056,6 @@
     <item>Ninguno</item>
     <item>Manual</item>
     <item>Config. automática proxy</item>
-  </string-array>
-  <string-array name="wifi_security">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>@string/wifi_security_eap</item>
-    <item>@string/wifi_security_wapi_psk</item>
-    <item>@string/wifi_security_wapi_cert</item>
-  </string-array>
-  <string-array name="wifi_security_no_eap">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>WAPI PSK</item>
-    <item>WAPI CERT</item>
   </string-array>
   <string-array name="wifi_security_only_wapi_cert_entries">
     <item>WAPI CERT</item>

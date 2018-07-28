@@ -65,4 +65,6 @@
   <string name="using_recorder_dialog_message">La Radio necesita tener acceso a los servicios de grabación para funcionar normalmente.</string>
   <string name="using_recorder_dialog_title">Permiso requerido</string>
   <string name="view_stations_list">Ver lista de emisoras</string>
+  <string name="msg_try_plug_headset">Conecte los auriculares y inténtelo de nuevo</string>
+  <string name="menu_label">Menú</string>
 </resources>

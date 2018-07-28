@@ -14,7 +14,7 @@
   <string name="credential_usage_label">Uso de credenciales:</string>
   <string name="done_label">Hecho</string>
   <string name="extracting_pkcs12">Extrayendo…</string>
-  <string name="install_done">%1$s se han agregado credenciales a las redes WLAN guardadas.</string>
+  <string name="install_done">%1$s se han agregado credenciales a las redes Wi-Fi guardadas.</string>
   <string name="install_done_title">Credenciales instalados</string>
   <string name="invalid_cert">El certificado no es válido.</string>
   <string name="n_cacrts">%d certificados CA</string>
@@ -48,17 +48,17 @@ Método auth: EAP-%5$s
   <string name="wifi_detail_title">Detalles para %s</string>
   <string name="wifi_dismiss_label">Descartar</string>
   <string name="wifi_install_label">Instalar</string>
-  <string name="wifi_installer_detail">Instalar credenciales WLAN para conectarse a redes disponibles mediante %1$s.</string>
+  <string name="wifi_installer_detail">Instalar credenciales Wi-Fi para conectarse a redes disponibles mediante %1$s.</string>
   <string name="wifi_installer_download_error">"El archivo descargado tiene problemas y no se puede instalar. Asegúrese de que ha descargado el archivo de la fuente correcta."</string>
-  <string name="wifi_installer_fail">"No se pueden instalar credenciales WLAN. Intente descargar el archivo de nuevo."</string>
-  <string name="wifi_installer_fail_no_wifi">Encienda WLAN y vuelva a intentarlo.</string>
+  <string name="wifi_installer_fail">"No se pueden instalar credenciales Wi-Fi. Intente descargar el archivo de nuevo."</string>
+  <string name="wifi_installer_fail_no_wifi">Encienda Wi-Fi y vuelva a intentarlo.</string>
   <string name="wifi_installer_fail_no_wifi_title">Instalación cancelada</string>
   <string name="wifi_installer_fail_title">"No se puede instalar"</string>
   <string name="wifi_installing_label">Instalando</string>
   <string name="wifi_no_config">Nada</string>
   <string name="wifi_sim_config_text">"SIM: %s
 "</string>
-  <string name="wifi_title">Perfil de WLAN</string>
+  <string name="wifi_title">Perfil de Wi-Fi</string>
   <string name="wifi_tls_config_text">"certificado de cliente:
 %1$s
 Clave: %2$s

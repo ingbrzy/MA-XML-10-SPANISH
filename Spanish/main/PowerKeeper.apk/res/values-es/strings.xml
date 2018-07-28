@@ -213,7 +213,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="still">Imagen</string>
   <string name="sucess">Hecho</string>
   <string name="ui">Estándar</string>
-  <string name="update_profile_failture_not_connect_wifi">"No se pudo actualizar. Conectarse a WLAN e inténtelo de nuevo."</string>
+  <string name="update_profile_failture_not_connect_wifi">"No se pudo actualizar. Conectarse a Wi-Fi e inténtelo de nuevo."</string>
   <string name="update_profile_sucess">Actualizado desde el servidor correctamente</string>
   <string name="user_define_mode">Nombre</string>
   <string name="vip_feedback">Vip Feedback</string>

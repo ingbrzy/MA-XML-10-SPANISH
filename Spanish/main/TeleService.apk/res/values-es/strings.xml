@@ -488,7 +488,6 @@ Sample Rate"</string>
   <string name="cell_bc_sms_enable">SMS de difusión activado</string>
   <string name="cell_broadcast_settings">Difusión de emergencia</string>
   <string name="cell_broadcast_sms">SMS de difusión móvil</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="cf_mobile_date">Apaga los datos y asegúrate que la Wi-Fi está apagada</string>
   <string name="cf_setting_mobile_data_alert">Por favor, encienda los datos móviles y asegúrese de que WLAN está apagado</string>
   <string name="cf_setting_mobile_data_roaming_alert">Por favor, active la itinerancia de datos</string>
@@ -895,7 +894,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="incall_error_out_of_service_wfc">Red móvil no disponible. Conéctese a una red inalámbrica para realizar una llamada.</string>
   <string name="incall_error_power_off">Para realizar una llamada, desactiva el modo avión.</string>
   <string name="incall_error_power_off_wfc">Desactive el modo de avión o conéctese a una red inalámbrica para realizar una llamada.</string>
-  <string name="incall_error_promote_wfc">Enable WLAN calling to make a call.</string>
+  <string name="incall_error_promote_wfc">Activar llamadas Wi-Fi para hacer una llamada.</string>
   <string name="incall_error_sim_inactive">Dial-up no se difunde，porque la SIM no está activada.</string>
   <string name="incall_error_supp_service_conference">No se pueden hacer llamadas de conferencia.</string>
   <string name="incall_error_supp_service_hangup">No se pudo colgar la llamada.</string>
@@ -1320,7 +1319,6 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="pin_progress_set_fdn_lock">Configurando estado del bloqueo FDN…</string>
   <string name="pin_progress_set_icc_lock">Configurando estado del bloqueo ICC…</string>
   <string name="pin_progress_unlock_icc">Desbloqueando tarjeta SIM…</string>
-  <string name="platform_carrier_config_package">com.android.carrierconfig</string>
   <string name="pointer_location">Ubicación del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra datos táctiles actuales</string>
   <string name="port_title">Número de puerto</string>

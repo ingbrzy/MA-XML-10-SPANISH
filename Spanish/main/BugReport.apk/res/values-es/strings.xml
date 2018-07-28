@@ -218,13 +218,9 @@
   <string name="michat_user_quit">Dejaste el chat</string>
   <string name="michat_wait_for_a_moment">¡Sólo es un segundo, la ayuda está en camino!</string>
   <string name="michat_webview_title">Ver detalles</string>
-  <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-  <!-- Original string: Your %1$s should be longer. -->
   <string name="min_error">El título debe ser más largo.</string>
-  <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
-  <string name="mobile_data_note_dialog_confirm">Upload</string>
+  <string name="mobile_data_note_dialog_cancel">Esperando por Wi-Fi</string>
+  <string name="mobile_data_note_dialog_confirm">Subir</string>
   <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
   <string name="mobile_data_note_dialog_title">Data usage warning</string>

@@ -415,7 +415,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_switch_key">Recientes</string>
   <string name="app_usage_preference">Preferencias de uso de aplicaciones</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="application_forbid_auto_startup">Impedir que %s se inicie en segundo plano</string>
   <string name="application_info_label">Información de la aplicación</string>
   <string name="application_item_already_permission">Permitido</string>
@@ -504,8 +504,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="auto_replace_summary">Corregir palabras con errores de escritura</string>
   <string name="auto_restore_summary">Cuando vuelvas a instalar una aplicación, restaurar los ajustes y los datos incluidos en la copia</string>
   <string name="auto_restore_title">Restauración automática</string>
-  <string name="auto_rule">regla de programación</string>
-  <string name="auto_silent">Temporización Silenciada</string>
+  <string name="auto_rule">Regla de programación</string>
+  <string name="auto_silent">Programar</string>
   <string name="auto_startup_application_manage">Inicio automático</string>
   <string name="auto_startup_count">%d aplicaciones tienen permiso para iniciarse automáticamente</string>
   <string name="auto_sync_account_summary">Permitir que las aplicaciones actualicen los datos automáticamente</string>
@@ -1113,19 +1113,11 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="carrier_enabled">Habilitar o inhabilitar APN</string>
   <string name="carrier_enabled_summaryOff">APN inhabilitado</string>
   <string name="carrier_enabled_summaryOn">APN habilitado</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Trabajo</string>
   <string name="cdma_security_settings_summary">Establecer ubicación, bloqueo de pantalla y bloqueo de almacenamiento de credenciales</string>
   <string name="cell_broadcast_settings">Radiodifusiones de emergencia</string>
   <string name="cell_broadcast_settings_summary">Seleccione los tipos de alertas de emergencia para mostrar</string>
-  <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-  <!-- Original string: ^1 mobile data -->
   <string name="cell_data_template">%1$s datos móviles</string>
   <string name="cell_warning_and_limit">%1$s Aviso de datos / %2$s Límite de datos</string>
   <string name="cell_warning_only">%1$s Aviso de datos</string>
@@ -1136,7 +1128,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="cellular_to_wlan_hint_title">Pista Datos móviles-&gt;Wi-Fi</string>
   <string name="cellular_to_wlan_hint_toast">La conexión Datos móviles-&gt;Wi-Fi puede resultar afectada</string>
   <string name="cellular_to_wlan_title">Datos móviles-&gt;Wi-Fi</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Cambiar</string>
   <string name="change_password">Cambiar bloqueo de pantalla</string>
   <string name="change_security_lock">Probar otras formas de bloquear</string>
@@ -1285,7 +1276,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="connected_via_network_scorer">Conectado automáticamente vía %1$s</string>
   <string name="connected_via_network_scorer_default">Conectado automáticamente a través del proveedor de calificación de red</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
-  <string name="connected_via_wfa">Conectado a través de asistente Wi‑Fi</string>
+  <string name="connected_via_wfa">Conectado a través de asistente Wi-Fi</string>
   <string name="connected_wifi">Conectado</string>
   <string name="connecting_to_vpn">Conectando a la VPN</string>
   <string name="content_description_menu_button">Menu</string>
@@ -1307,7 +1298,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="create">Crear</string>
   <string name="credential_contains">Esta entrada contiene:</string>
   <string name="credential_for_vpn_and_apps">Instalado para VPN y apps</string>
-  <string name="credential_for_wifi">Instalado para WLAN</string>
+  <string name="credential_for_wifi">Instalado para Wi-Fi</string>
   <string name="credential_storage_type">Tipo de almacenamiento</string>
   <string name="credential_storage_type_hardware">Almacenado en hardware</string>
   <string name="credential_storage_type_software">Solo software</string>
@@ -1451,7 +1442,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="data_usage_menu_auto_sync">Sincronización automática</string>
   <string name="data_usage_menu_cellular_networks">Redes móviles</string>
   <string name="data_usage_menu_hide_ethernet">Ocultar uso de Ethernet</string>
-  <string name="data_usage_menu_hide_wifi">Ocultar Wi‑Fi</string>
+  <string name="data_usage_menu_hide_wifi">Ocultar Wi-Fi</string>
   <string name="data_usage_menu_metered">Restricciones de red</string>
   <string name="data_usage_menu_restrict_background">Restringir conexiones automáticas</string>
   <string name="data_usage_menu_roaming">Itinerancia de datos</string>
@@ -1657,8 +1648,8 @@ Su operador puede cobrarle cargos adicionales si vuelve a activar los datos móv
   <string name="dialog_not_show_again">No mostrar otra vez</string>
   <string name="dialog_restrict_all_mobile_summary">%s La conexión de datos móvil será restringida para todas las aplicaciones después de esto.</string>
   <string name="dialog_restrict_all_mobile_title">Restringir %s conexión de datos móvil</string>
-  <string name="dialog_restrict_all_wlan_summary">La conexión WLAN será restringida para todas las aplicaciones después de esto.</string>
-  <string name="dialog_restrict_all_wlan_title">Restringir la conexión WLAN</string>
+  <string name="dialog_restrict_all_wlan_summary">La conexión Wi-Fi será restringida para todas las aplicaciones después de esto.</string>
+  <string name="dialog_restrict_all_wlan_title">Restringir la conexión Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringir</string>
   <string name="dialog_restrict_positive">Cancelar</string>
   <string name="dialog_title_color_calibration">Corrección de color preestablecido</string>
@@ -1873,7 +1864,7 @@ Su operador puede cobrarle cargos adicionales si vuelve a activar los datos móv
   <string name="edit_rule">editar reglas</string>
   <string name="edit_rules">editar</string>
   <string name="eighthours">8 horas</string>
-  <string name="emergency_address_summary">Dirección utilizada por los servicios de emergencia como su ubicación si usted hace una llamada de 911 usando WLAN</string>
+  <string name="emergency_address_summary">Dirección utilizada por los servicios de emergencia como su ubicación si usted hace una llamada de 911 usando Wi-Fi</string>
   <string name="emergency_address_title">Actualizar dirección de emergencia</string>
   <string name="emergency_info_summary">Información &amp; contactos para %1$s</string>
   <string name="emergency_info_title">Información de emergencia</string>
@@ -2150,7 +2141,7 @@ Para más detalles, comuníquese con el administrador de su organización."</str
   <string name="firewall_allow_all">Permitir que todas las aplicaciones se conecten mediante el siguiente método</string>
   <string name="firewall_allow_data">Permitir el uso de datos móviles</string>
   <string name="firewall_allow_network">Permitir</string>
-  <string name="firewall_allow_wlan">Permitir el uso de conexión WLAN</string>
+  <string name="firewall_allow_wlan">Permitir el uso de conexión Wi-Fi</string>
   <string name="firewall_applist">Aplicaciones</string>
   <string name="firewall_mobile">Datos móviles</string>
   <string name="firewall_network_allow">Permitido %1$s para utilizar %2$s Conexión</string>
@@ -2163,12 +2154,12 @@ Para más detalles, comuníquese con el administrador de su organización."</str
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_restrict_data">Restrict mobile data usage</string>
   <string name="firewall_restrict_notify_title">"%s can't use network"</string>
-  <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
+  <string name="firewall_restrict_wlan">Restrict using Wi-Fi connection</string>
   <string name="firewall_set_bg_firewall_default_dialog_summary">"If you restrict background connection, new apps won't be able to connect to the internet in the background after you install them. They might be unable to receive messages or download content after this. Restrict anyway?"</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Restrict background connection for new apps</string>
   <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s</string>
-  <string name="firewall_wifi">WLAN</string>
-  <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off."</string>
+  <string name="firewall_wifi">Wi-Fi</string>
+  <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using Wi-Fi when this switch is off."</string>
   <string name="firmware_version">Versión de Android</string>
   <string name="floating_window_switch_label">Activar ventanas flotantes</string>
   <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
@@ -2722,8 +2713,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="location_scanning_bluetooth_always_scanning_description">Los servicios y las aplicaciones del sistema pueden detectar dispositivos Bluetooth en cualquier momento para mejorar la precisión de la ubicación.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Búsqueda de dispositivos Bluetooth</string>
   <string name="location_scanning_screen_title">Buscando</string>
-  <string name="location_scanning_wifi_always_scanning_description">Los servicios y las aplicaciones del sistema pueden detectar redes Wi‑Fi en cualquier momento para mejorar la precisión de la ubicación.</string>
-  <string name="location_scanning_wifi_always_scanning_title">Búsqueda de redes Wi‑Fi</string>
+  <string name="location_scanning_wifi_always_scanning_description">Los servicios y las aplicaciones del sistema pueden detectar redes Wi-Fi en cualquier momento para mejorar la precisión de la ubicación.</string>
+  <string name="location_scanning_wifi_always_scanning_title">Búsqueda de redes Wi-Fi</string>
   <string name="location_settings_title">Ubicación</string>
   <string name="location_sources_heading">Fuentes de ubicación</string>
   <string name="location_street_level">Permitir que las aplicaciones usen el GPS del teléfono para determinar tu ubicación exacta</string>
@@ -2891,11 +2882,11 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="long_press_menu_key">Pulsación larga botón menú</string>
   <string name="long_press_menu_key_when_lock">Pulsación larga botón menú cuando está bloqueado</string>
   <string name="long_press_volume_down">Pulsación larga bajar volumen</string>
-  <string name="lost_internet_access_cancel">Estancia en WLAN</string>
+  <string name="lost_internet_access_cancel">Estancia en Wi-Fi</string>
   <string name="lost_internet_access_persist">Nunca volver a mostrar</string>
   <string name="lost_internet_access_switch">Cambiar a móvil</string>
-  <string name="lost_internet_access_text">Puede cambiar a la red móvil siempre que WLAN tenga una conexión incorrecta. Se pueden aplicar cargos por uso de datos.</string>
-  <string name="lost_internet_access_title">WLAN no está conectada a Internet</string>
+  <string name="lost_internet_access_text">Puede cambiar a la red móvil siempre que Wi-Fi tenga una conexión incorrecta. Se pueden aplicar cargos por uso de datos.</string>
+  <string name="lost_internet_access_title">Wi-Fi no está conectada a Internet</string>
   <string name="lte_4g_settings_4gdisable_summary">4G Desactivado</string>
   <string name="lte_4g_settings_4genable_summary">4G Activado</string>
   <string name="lte_4g_settings_disable">Modo avión o la tarjeta SIM no está lista</string>
@@ -3146,7 +3137,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="mms_privacy_password_role_instruction">Sus conversaciones con contactos privados se guardarán aquí.</string>
   <string name="mobile_connect_to_internet">Debes conectarte a Internet</string>
   <string name="mobile_data_always_on">Datos móviles siempre activos</string>
-  <string name="mobile_data_always_on_summary">Mantén los datos móviles siempre activos, aunque la conexión Wi‑Fi esté activada (para cambiar de red rápidamente).</string>
+  <string name="mobile_data_always_on_summary">Mantén los datos móviles siempre activos, aunque la conexión Wi-Fi esté activada (para cambiar de red rápidamente).</string>
   <string name="mobile_insert_sim_card">Inserta la tarjeta SIM y reinicia el dispositivo</string>
   <string name="mobile_no_provisioning_url">%1$s no tiene ningún sitio web de aprovisionamiento</string>
   <string name="mobile_unknown_sim_operator">Operador de SIM desconocido</string>
@@ -3259,7 +3250,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Los auriculares USB no son compatibles"</string>
   <string name="musicfx_title">Efectos de música</string>
-  <string name="mute_music_stream">Silenciar la transmisión de música</string>
+  <string name="mute_music_stream">Silenciar multimedia</string>
   <string name="mvno_match_data">Valor de OMV</string>
   <string name="mvno_type">Tipo de OMV</string>
   <string name="my_device">Mi dispositivo</string>
@@ -3292,9 +3283,9 @@ Seleccione su sistema operativo:"</string>
   <string name="netcheck_title">Diagnóstico de red</string>
   <string name="network_assistant">Uso de datos</string>
   <string name="network_changed_noti_summary">Uso de datos móviles</string>
-  <string name="network_changed_noti_title">Desconectado de WLAN</string>
+  <string name="network_changed_noti_title">Desconectado de Wi-Fi</string>
   <string name="network_control">Ver configuración de la aplicación</string>
-  <string name="network_dashboard_summary">WLAN, móvil, uso de los datos, Hotspot</string>
+  <string name="network_dashboard_summary">Wi-Fi, móvil, uso de los datos, Hotspot</string>
   <string name="network_dashboard_title">Red &amp; Internet</string>
   <string name="network_detail">%s Detalles de red</string>
   <string name="network_error">Error de red</string>
@@ -3304,7 +3295,7 @@ Seleccione su sistema operativo:"</string>
   <string name="network_reset_not_available">Este usuario no puede restablecer la red</string>
   <string name="network_restrictions">Restricciones de red</string>
   <string name="network_scorer_change_active_dialog_text">¿Quieres usar %1$s en lugar de %2$s para administrar tus conexiones de red?</string>
-  <string name="network_scorer_change_active_dialog_title">¿Cambiar Asistente de Wi‑Fi?</string>
+  <string name="network_scorer_change_active_dialog_title">¿Cambiar Asistente de Wi-Fi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">¿Quieres usar %s para administrar tus conexiones de red?</string>
   <string name="network_scorer_picker_none_preference">Ninguno</string>
   <string name="network_scorer_picker_title">Proveedor de calificación de red</string>
@@ -3715,8 +3706,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="pointer_location_summary">Mostrar coordenadas táctiles</string>
   <string name="pointer_settings_category">Ratón/trackpad</string>
   <string name="pointer_speed">Velocidad del puntero</string>
-  <string name="popup_window">permitir ventanas emergentes</string>
-  <string name="power_apps">Apps</string>
+  <string name="popup_window">Permitir ventanas emergentes</string>
+  <string name="power_apps">Aplicaciones</string>
   <string name="power_autorun_apps_empty">Vacío</string>
   <string name="power_autorun_empty">Vacío</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -4062,7 +4053,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="radio_info_ims_feature_status_unavailable">Unavailable</string>
   <string name="radio_info_ims_reg_status">"IMS Registration: %1$s
 Voice over LTE: %2$s
-Voice over WLAN: %3$s
+Voice over Wi-Fi: %3$s
 Video Calling: %4$s
 UT Interface: %5$s"</string>
   <string name="radio_info_ims_reg_status_not_registered">No registrado</string>
@@ -4146,7 +4137,7 @@ UT Interface: %5$s"</string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
   <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
   <string name="reset_network_title">Restablecer ajustes de red</string>
-  <string name="reset_network_wifi">WLAN</string>
+  <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Restablecer contraseña de segundo espacio</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
   <string name="reset_second_space_passwd_confirm">Continuar</string>
@@ -4566,18 +4557,18 @@ Para ello:
   <string name="search_wallpaper_settings_title">Fondo de pantalla;Pantalla de inicio;Pantalla de bloqueo</string>
   <string name="search_wfd_settings_title">Pantalla inalámbrica;Activar pantalla inalámbrica</string>
   <string name="search_wifi_advanced_ip_address_title">Dirección IP;IP</string>
-  <string name="search_wifi_advanced_mac_address_title">Dirección MAC Wi-Fi;Dirección MAC WLAN</string>
-  <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Activar Wifi;Activar Wi-fi;Activar WLAN</string>
+  <string name="search_wifi_advanced_mac_address_title">Dirección MAC Wi-Fi;Dirección MAC Wi-Fi</string>
+  <string name="search_wifi_enable">WiFi;Wi-Fi;Wi-Fi;Activar Wifi;Activar Wi-fi;Activar Wi-Fi</string>
   <string name="search_wifi_install_credentials">Instalar certificados;Certificados</string>
-  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;Wi-Fi Direct</string>
   <string name="search_wifi_menu_wps_pin">PIN de entrada WPS;WPS;PIN WPS</string>
-  <string name="search_wifi_scan_always_available">Escaneo siempre disponible;Escanear redes;Escanear Wifi;Escanear WLAN</string>
-  <string name="search_wifi_setting_frequency_band_title">Frecuencia Wi-Fi de la banda;Frecuencia Wi-Fi;Frecuencia Wi-Fi;Frecuencia WLAN;Frecuencia de la banda</string>
-  <string name="search_wifi_setting_sleep_policy_title">Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener WLAN en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener WLAN en tiempo de sueño</string>
-  <string name="search_wifi_settings_title">Wifi;WLAN;Ajustes avanzados;WLAN;Redes inalámbricas;Inalámbrico</string>
+  <string name="search_wifi_scan_always_available">Escaneo siempre disponible;Escanear redes;Escanear Wifi;Escanear Wi-Fi</string>
+  <string name="search_wifi_setting_frequency_band_title">Frecuencia Wi-Fi de la banda;Frecuencia Wi-Fi;Frecuencia Wi-Fi;Frecuencia Wi-Fi;Frecuencia de la banda</string>
+  <string name="search_wifi_setting_sleep_policy_title">Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño</string>
+  <string name="search_wifi_settings_title">Wifi;Wi-Fi;Ajustes avanzados;Wi-Fi;Redes inalámbricas;Inalámbrico</string>
   <string name="search_wifi_tether_checkbox">Punto de acceso portátil;punto de acceso;portátil</string>
   <string name="search_wifi_tether_configure_ap_text">Establecer punto de acceso portátil;Establecer punto de acceso;Añadir punto de acceso;configurar punto de acceso</string>
-  <string name="search_wifi_tether_settings_title">Anclaje a red y punto de acceso personal;Anclaje a red;compartir internet;punto de acceso WLAN;punto de acceso Wifi;punto de acceso WLAN</string>
+  <string name="search_wifi_tether_settings_title">Anclaje a red y punto de acceso personal;Anclaje a red;compartir internet;punto de acceso Wi-Fi;punto de acceso Wifi;punto de acceso Wi-Fi</string>
   <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
   <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
@@ -4815,10 +4806,10 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
   <string name="silent_mode">Modo silencio</string>
   <string name="silent_mode_title">Modo silencio</string>
   <string name="silent_off">Apagar</string>
-  <string name="silent_settings">Silencio/MNM</string>
+  <string name="silent_settings">Silencio/No Molestar</string>
   <string name="silent_standard">Silencio</string>
   <string name="silent_time">Duración del silencio</string>
-  <string name="silent_total">MNM</string>
+  <string name="silent_total">No Molestar</string>
   <string name="sim_absent">No SIM/RUIM</string>
   <string name="sim_bad_pin">El PIN debe contener de 4 a 8 números de longitud</string>
   <string name="sim_call_back_title">Volver a llamar desde SIM predeterminada</string>
@@ -5447,11 +5438,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="title_system_resource">Recursos del sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
   <string name="toast_need_login">Inicie sesión en su Cuenta Mi</string>
-  <string name="total">MNM</string>
-  <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-  <!-- Original string: Silence sounds %1$sexcept for the alarms -->
+  <string name="total">No Molestar</string>
   <string name="total_info">En silencio no hay sonido y se apaga la vibración de todos los elementos a excepción de las alarmas</string>
   <string name="total_info_sub">y apague la vibración</string>
   <string name="total_memory">Memoria total</string>
@@ -6108,13 +6095,13 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_add_network">Añadir red</string>
   <string name="wifi_advanced_ip_address_title">Dirección IP</string>
   <string name="wifi_advanced_mac_address_title">Dirección MAC</string>
-  <string name="wifi_advanced_not_available">Los ajustes de Wi‑Fi avanzados no están disponibles para este usuario</string>
+  <string name="wifi_advanced_not_available">Los ajustes de Wi-Fi avanzados no están disponibles para este usuario</string>
   <string name="wifi_advanced_settings_label">Ajustes de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avanzada</string>
   <string name="wifi_advanced_toggle_description_collapsed">Lista desplegable Opciones avanzadas. Pulse dos veces para expandirse.</string>
   <string name="wifi_advanced_toggle_description_expanded">Lista desplegable Opciones avanzadas. Pulse dos veces para colapsar.</string>
-  <string name="wifi_aggressive_handover">Transferencia agresiva de Wi‑Fi a móvil</string>
-  <string name="wifi_aggressive_handover_summary">Cuando está habilitada, la conexión cambiará a datos móviles más activamente cuando la señal Wi‑Fi sea débil.</string>
+  <string name="wifi_aggressive_handover">Transferencia agresiva de Wi-Fi a móvil</string>
+  <string name="wifi_aggressive_handover_summary">Cuando está habilitada, la conexión cambiará a datos móviles más activamente cuando la señal Wi-Fi sea débil.</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s administra tu dispositivo y no permite modificar ni eliminar esta red Wi-Fi. Para obtener más información, ponte en contacto con el administrador.</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre escaneos de itinerancia Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permita o restrinja escaneos de itinerancia Wi-Fi basados en la cantidad de tráfico de datos presente en la interfaz.</string>
@@ -6124,26 +6111,26 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
   <string name="wifi_ap_choose_dual">Ambos</string>
   <string name="wifi_api_test">API de WI-FI</string>
-  <string name="wifi_ask_disable">%s quiere desactivar WLAN</string>
-  <string name="wifi_ask_enable">%s quiere activar WLAN</string>
-  <string name="wifi_assistant">Asistente WLAN</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Esta red WLAN no tiene acceso a Internet. En su lugar, el dispositivo utilizará datos móviles. Puede desactivar el Asistente de WLAN en la configuración.</string>
+  <string name="wifi_ask_disable">%s quiere desactivar Wi-Fi</string>
+  <string name="wifi_ask_enable">%s quiere activar Wi-Fi</string>
+  <string name="wifi_assistant">Asistente Wi-Fi</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Esta red Wi-Fi no tiene acceso a Internet. En su lugar, el dispositivo utilizará datos móviles. Puede desactivar el Asistente de Wi-Fi en la configuración.</string>
   <string name="wifi_assistant_card_message">Conectarse automáticamente a redes disponibles con un asistente de Wi-Fi</string>
   <string name="wifi_assistant_confirm_always">"No mostrar de nuevo"</string>
   <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
   <string name="wifi_assistant_data_prompt">Mostrar Advertencia de uso de datos</string>
-  <string name="wifi_assistant_data_prompt_summary">Mostrar el uso de datos ADVERTENCIA Cuando el Asistente de WLAN cambia a datos móviles</string>
-  <string name="wifi_assistant_description">"He aquí cómo WLAN ayudante de obras:
-1. Cuando la conexión WLAN es pobre, WLAN asistente intentará conectar su dispositivo a otras redes WLAN disponibles.
-2. Si todas las conexiones WLAN disponibles resultan ser pobres y de datos móviles está activado, asistente de WLAN cambiará a datos móviles."</string>
+  <string name="wifi_assistant_data_prompt_summary">Mostrar el uso de datos ADVERTENCIA Cuando el Asistente de Wi-Fi cambia a datos móviles</string>
+  <string name="wifi_assistant_description">"He aquí cómo Wi-Fi ayudante de obras:
+1. Cuando la conexión Wi-Fi es pobre, Wi-Fi asistente intentará conectar su dispositivo a otras redes Wi-Fi disponibles.
+2. Si todas las conexiones Wi-Fi disponibles resultan ser pobres y de datos móviles está activado, asistente de Wi-Fi cambiará a datos móviles."</string>
   <string name="wifi_assistant_dialog_message">El asistente Wi-Fi quiere establecer una conexión VPN que le permita monitorizar el tráfico de red. Acepte solamente si confía en la fuente.</string>
   <string name="wifi_assistant_disconnect">Desconectar</string>
   <string name="wifi_assistant_explanation_message">El asistente Wi-Fi de Google detecte las redes disponibles y conecta su dispositivo a la que tenga mayor velocidad y fiabilidad.</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">Esta red WLAN no tiene acceso a Internet. ¿usar datos móviles en su lugar?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">Esta red WLAN no tiene acceso a Internet. ¿desconectar ahora?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta red WLAN no tiene acceso a Internet. Otras redes WLAN están disponibles. ¿cambiar de red?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Esta red Wi-Fi no tiene acceso a Internet. ¿usar datos móviles en su lugar?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Esta red Wi-Fi no tiene acceso a Internet. ¿desconectar ahora?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta red Wi-Fi no tiene acceso a Internet. Otras redes Wi-Fi están disponibles. ¿cambiar de red?</string>
   <string name="wifi_assistant_intro_setup">"Presentando al
-Asistente de Wi‑Fi"</string>
+Asistente de Wi-Fi"</string>
   <string name="wifi_assistant_keep_connection">Manténgase conectado</string>
   <string name="wifi_assistant_no_thanks">NO, GRACIAS</string>
   <string name="wifi_assistant_off">Apagado</string>
@@ -6155,22 +6142,21 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_assistant_setting_title">Asistente de Wi-Fi</string>
   <string name="wifi_assistant_setup">CONFIGURAR</string>
   <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
-  <string name="wifi_assistant_summary">Cambiar entre redes WLAN y datos móviles cuando la conexión WLAN es deficiente</string>
+  <string name="wifi_assistant_summary">Cambiar entre redes Wi-Fi y datos móviles cuando la conexión Wi-Fi es deficiente</string>
   <string name="wifi_assistant_switch_data">Utilizar datos móviles</string>
   <string name="wifi_assistant_switch_wifi">Interruptor de redes</string>
-  <string name="wifi_assistant_title">Asistente de Wi‑Fi</string>
-  <string name="wifi_assistant_title_message">El Asistente de Wi-FI de Google le conecta automáticamente a la mejor red Wi-Fi disponible</string>
+  <string name="wifi_assistant_title">Asistente de Wi-Fi</string>
+  <string name="wifi_assistant_title_message">El Asistente de Wi-Fi de Google le conecta automáticamente a la mejor red Wi-Fi disponible</string>
   <string name="wifi_assistant_vpn_message">Para ayudarle a proteger su datos, el Asistente de Wi-Fi de Google puede proporcionar una conexión VPN segura a través de los servidores de Google.</string>
   <string name="wifi_auto_connect">Conectar automáticamente</string>
   <string name="wifi_auto_connect_type_summary">Especifique el tipo de conexión de red</string>
   <string name="wifi_auto_connect_type_title">Tipo de autoconexión</string>
-  <string name="wifi_automatically_connect_summary">Dejar que un asistente de Wi‑Fi se conecte automáticamente a redes abiertas consideradas de buena calidad</string>
-  <string name="wifi_automatically_connect_title">Usar redes Wi‑Fi abiertas automáticamente</string>
-  <string name="wifi_automatically_manage_summary">Permitir que un Asistente de Wi-Fi administre la conexión Wi‑Fi</string>
+  <string name="wifi_automatically_connect_summary">Dejar que un asistente de Wi-Fi se conecte automáticamente a redes abiertas consideradas de buena calidad</string>
+  <string name="wifi_automatically_connect_title">Usar redes Wi-Fi abiertas automáticamente</string>
+  <string name="wifi_automatically_manage_summary">Permitir que un Asistente de Wi-Fi administre la conexión Wi-Fi</string>
   <string name="wifi_automatically_manage_title">Administrar Wi-Fi automáticamente</string>
   <string name="wifi_available_title">Conectar a red Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Solo usar redes con buena conexión a Internet</string>
-  <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
   <string name="wifi_band_24ghz">2,4 GHz</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Modo de llamadas Wi-Fi</string>
@@ -6183,16 +6169,16 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_calling_suggestion_summary">Usar Wi-Fi en lugar de la red móvil</string>
   <string name="wifi_calling_suggestion_title">Activar llamadas Wi-Fi</string>
   <string name="wifi_cancel">Cancelar</string>
-  <string name="wifi_cellular_data_fallback_summary">Utilizar datos móviles cuando WLAN no tiene acceso a Internet. Puede aplicarse el uso de datos.</string>
+  <string name="wifi_cellular_data_fallback_summary">Utilizar datos móviles cuando Wi-Fi no tiene acceso a Internet. Puede aplicarse el uso de datos.</string>
   <string name="wifi_cellular_data_fallback_title">Cambiar a datos móviles automáticamente</string>
   <string name="wifi_certificate">Certificado</string>
   <string name="wifi_click_login_wlan">Requiere Inicio de sesión/Autorización</string>
   <string name="wifi_click_share_wlan">Toque para compartir la contraseña</string>
   <string name="wifi_config_info">Ajustes Wi-Fi</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_off">"WLAN no se vuelve a encender automáticamente"</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN se vuelve a encender automáticamente</string>
-  <string name="wifi_configure_settings_preference_title">Preferencias de WLAN</string>
-  <string name="wifi_configure_titlebar">Configurar Wi‑Fi</string>
+  <string name="wifi_configure_settings_preference_summary_wakeup_off">"Wi-Fi no se vuelve a encender automáticamente"</string>
+  <string name="wifi_configure_settings_preference_summary_wakeup_on">Wi-Fi se vuelve a encender automáticamente</string>
+  <string name="wifi_configure_settings_preference_title">Preferencias de Wi-Fi</string>
+  <string name="wifi_configure_titlebar">Configurar Wi-Fi</string>
   <string name="wifi_configured_ap_list">Puntos de acceso previamente configurados</string>
   <string name="wifi_connect">Conectar</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
@@ -6202,16 +6188,12 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_connect_cmcc_dialog_title">Notificación de uso de datos</string>
   <string name="wifi_connect_failed_message">No es posible conectarse a la red Wi-Fi</string>
   <string name="wifi_connected_no_internet">Conexión sin internet</string>
-  <string name="wifi_connection_management">Administrar conexiones WLAN</string>
+  <string name="wifi_connection_management">Administrar conexiones Wi-Fi</string>
   <string name="wifi_context_menu_change_password">Cambiar contraseña</string>
   <string name="wifi_context_menu_change_wapi_certificate">Cambiar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Conectar</string>
   <string name="wifi_context_menu_forget">Olvidar</string>
-  <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-  <!-- Original string: ^1 WLAN data -->
-  <string name="wifi_data_template">%1$s datos de Wi-FI</string>
+  <string name="wifi_data_template">%1$s datos de Wi-Fi</string>
   <string name="wifi_data_usage">Uso de datos de Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">No mostrar de nuevo</string>
   <string name="wifi_details_dns">DNS</string>
@@ -6286,9 +6268,9 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_gateway">Puerta de enlace</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hide_password">Ocultar contraseña</string>
-  <string name="wifi_hotspot_checkbox_text">Punto de acceso Wi‑Fi</string>
-  <string name="wifi_hotspot_checkbox_text_summary">Usar conex. móvil para ofrecer red Wi‑Fi</string>
-  <string name="wifi_hotspot_configure_ap_text">Configuración punto de acceso Wi‑Fi</string>
+  <string name="wifi_hotspot_checkbox_text">Punto de acceso Wi-Fi</string>
+  <string name="wifi_hotspot_checkbox_text_summary">Usar conex. móvil para ofrecer red Wi-Fi</string>
+  <string name="wifi_hotspot_configure_ap_text">Configuración punto de acceso Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text_summary">Punto de acceso Wi-Fi móvil AndroidAP WPA2 PSK</string>
   <string name="wifi_hotspot_connect">CONECTAR</string>
   <string name="wifi_hotspot_message">%1$s requiere que inicies sesión para conectarte.</string>
@@ -6306,7 +6288,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Introduzca un prefijo de red que tenga entre 0 y 32 caracteres.</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
-  <string name="wifi_limit_optimizations_summary">Limitar batería usada por Wi‑Fi</string>
+  <string name="wifi_limit_optimizations_summary">Limitar batería usada por Wi-Fi</string>
   <string name="wifi_menu_advanced">Ajustes avanzados</string>
   <string name="wifi_menu_configure">Configurar</string>
   <string name="wifi_menu_connect">Conectarse a la red</string>
@@ -6369,7 +6351,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_priority_settings_title">Ajustes de prioridad de los PA</string>
   <string name="wifi_priority_type_summary">Permitir establecer la prioridad de cada punto de acceso (PA) manualmente</string>
   <string name="wifi_priority_type_title">Establecer la prioridad de los PA manualmente</string>
-  <string name="wifi_property">Propiedades de WLAN</string>
+  <string name="wifi_property">Propiedades de Wi-Fi</string>
   <string name="wifi_quick_toggle_summary">Activar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardado</string>
@@ -6394,7 +6376,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden buscar redes Wi-Fi aunque esté desactivada la conexión Wi-Fi. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
   <string name="wifi_scan_notify_text_location_off">Las aplicaciones pueden buscar redes cercanas incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, vaya a Config. avanzada &gt; Búsqueda siempre disponible.</string>
   <string name="wifi_scan_notify_text_location_on">Para mejorar la precisión de la ubicación y para otros fines, Google y otras aplicaciones pueden explorar las redes cercanas, incluso cuando Wi-Fi esté desactivado. Si no quiere que esto ocurra, vaya a Avanzado &gt; Exploración siempre disponible.</string>
-  <string name="wifi_scan_notify_text_scanning_off">Para mejorar la precisión de la ubicación, active la exploración WLAN en LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text_scanning_off">Para mejorar la precisión de la ubicación, active la exploración Wi-Fi en LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_security">Seguridad</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -6423,7 +6405,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_setting_frequency_band_error">Error al establecer la banda de frecuencia</string>
   <string name="wifi_setting_frequency_band_summary">Especificar intervalo de frecuencia de funcionamiento</string>
   <string name="wifi_setting_frequency_band_title">Banda de frecuencia de Wi-Fi</string>
-  <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activado en suspensión</string>
+  <string name="wifi_setting_on_during_sleep_title">Wi-Fi activado en suspensión</string>
   <string name="wifi_setting_sleep_policy_error">Error al cambiar los ajustes</string>
   <string name="wifi_setting_sleep_policy_title">Usar Wi-Fi en suspensión</string>
   <string name="wifi_settings">Wi-Fi</string>
@@ -6498,7 +6480,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_signal">Intensidad de la señal</string>
   <string name="wifi_signal_found_msg">¿Conectar a PA Wi-Fi?</string>
   <string name="wifi_skip_anyway">Saltar de todas formas</string>
-  <string name="wifi_skipped_message">ADVERTENCIA: Si omites la conexión Wi‑Fi, el teléfono solo utilizará datos móviles para realizar descargas y actualizaciones iniciales. Conéctate al Wi‑Fi para evitar posibles cargos de datos.</string>
+  <string name="wifi_skipped_message">ADVERTENCIA: Si omites la conexión Wi-Fi, el teléfono solo utilizará datos móviles para realizar descargas y actualizaciones iniciales. Conéctate al Wi-Fi para evitar posibles cargos de datos.</string>
   <string name="wifi_speed">Velocidad de enlace</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Introduzca el SSID</string>
@@ -6531,7 +6513,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_tether_settings_title">Punto de acceso personal</string>
   <string name="wifi_tether_starting">Activando zona Wi-Fi…</string>
   <string name="wifi_tether_stopping">Desactivando zona Wi-Fi…</string>
-  <string name="wifi_traffic_priority">WLAN speed mode</string>
+  <string name="wifi_traffic_priority">Wi-Fi speed mode</string>
   <string name="wifi_traffic_priority_extreme">Modo extremo</string>
   <string name="wifi_traffic_priority_extreme_summary">Dar la mayor parte del ancho de banda a la aplicación en el primer plano. Es posible que los procesos de fondo no puedan conectarse a la red.</string>
   <string name="wifi_traffic_priority_off">Apagado</string>
@@ -6548,9 +6530,9 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_use_system_certs">Usar certificados del sistema</string>
   <string name="wifi_verbose_logging">Habilitar registro Wi-Fi detallado</string>
   <string name="wifi_verbose_logging_summary">Aumente el nivel de registro Wi-Fi, muestre RSSI para cada SSID en la lista de redes Wi-Fi.</string>
-  <string name="wifi_wakeup">Activar WLAN automáticamente</string>
-  <string name="wifi_wakeup_summary">WLAN se volverá a encender cerca de High‑quality redes guardadas, como su red doméstica</string>
-  <string name="wifi_wakeup_summary_scanning_disabled">No disponible porque la exploración WLAN está desactivada</string>
+  <string name="wifi_wakeup">Activar Wi-Fi automáticamente</string>
+  <string name="wifi_wakeup_summary">Wi-Fi se volverá a encender cerca de High‑quality redes guardadas, como su red doméstica</string>
+  <string name="wifi_wakeup_summary_scanning_disabled">No disponible porque la exploración Wi-Fi está desactivada</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Crear una carpeta</string>
@@ -6588,7 +6570,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_wps_setup_msg">Iniciando configuración WPS…</string>
   <string name="wifi_wps_setup_title">Configuración Wi-Fi protegida</string>
   <string name="wifiap_configure_ap_text">Configurar punto de acceso Wi-Fi móvil</string>
-  <string name="wifiap_configure_subtext">%1$s%2$s punto de acceso Wi-FI móvil</string>
+  <string name="wifiap_configure_subtext">%1$s%2$s punto de acceso Wi-Fi móvil</string>
   <string name="wifiap_settings_desc">El punto de acceso Wi-Fi móvil puede compartir la conexión móvil a Internet de este teléfono con otros PCs/dispositivos móviles vía Wi-Fi.</string>
   <string name="wifiap_settings_indication">Después de que el punto de acceso Wi-Fi móvil se active, otros PCs/dispositivos móviles se podrán conectar a él y empezar a utilizar Internet siguiendo los siguientes pasos:</string>
   <string name="wifiap_settings_indication_step1">1. Activar la Wi-Fi en el PC/dispositivo móvil</string>

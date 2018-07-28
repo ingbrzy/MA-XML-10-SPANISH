@@ -98,9 +98,7 @@
   <string name="opp_notification_group">Compartir Bluetooth</string>
   <string name="outbound_history_title">Transferencias salientes</string>
   <string name="outbound_noti_title">Transferencia Bluetooth: Enviar archivos</string>
-  <string name="pairing_ui_package">com.android.settings</string>
   <string name="pbap_acceptance_timeout_message">Hubo un tiempo de espera al aceptar la conexión con %1$s</string>
-  <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
   <string name="pbap_authentication_timeout_message">Hubo un tiempo de espera al introducir la clave con %1$s</string>
   <string name="pbap_notification_group">Compartir contacto con Bluetooth</string>
   <string name="pbap_session_key_dialog_header">Clave Bluetooth requerida</string>

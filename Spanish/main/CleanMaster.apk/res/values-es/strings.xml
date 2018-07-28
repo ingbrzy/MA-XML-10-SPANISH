@@ -450,15 +450,6 @@
   <string name="pref_title_manual_check_cleanup_db_update">Comprobar actualizaciones</string>
   <string name="pref_title_open_optimizer_cloud_scan">Cargar los nombres de los archivos</string>
   <string name="pref_title_open_optimizer_memory_scan">Escanear memoria de la aplicación</string>
-  <string name="preference_category_auto_clean_up">key_category_auto_clean_up</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
-  <string name="preference_key_auto_clean_operation">key_auto_clean_operation</string>
-  <string name="preference_key_auto_clean_trigger">key_auto_clean_trigger</string>
-  <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
-  <string name="preference_key_information_auto_clean_switch">key_information_auto_clean_switch</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
-  <string name="preference_key_scan_engine">key_scan_engine</string>
   <string name="privacy_app_desc">Cuenta y contraseña</string>
   <string name="privacy_app_desc_message">Cuenta, contraseñas y mensajes</string>
   <string name="privacy_app_desc_search">Cuentas, contraseñas e historial de búsqueda</string>
