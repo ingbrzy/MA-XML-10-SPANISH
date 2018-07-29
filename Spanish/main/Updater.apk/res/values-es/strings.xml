@@ -59,7 +59,7 @@ Las actualizaciones no están disponibles!"</string>
   <string name="share_title">Compartir con</string>
   <string name="stable">estable</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="version">Instalada actualmente:</string>
+  <string name="version">Actual:</string>
   <string name="weekly">semanal</string>
   <string name="wifi_recommended">¡No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
 </resources>

@@ -278,7 +278,7 @@
   <string name="battery">Batería</string>
   <string name="battery_detail_charging_summary">El ahorro de batería no está disponible durante la carga</string>
   <string name="battery_detail_switch_summary">Reduce el rendimiento y los datos en segundo plano</string>
-  <string name="battery_detail_switch_title">Ahorrador de batería</string>
+  <string name="battery_detail_switch_title">Ahorro de batería</string>
   <string name="battery_info_status_charging">Cargando</string>
   <string name="battery_info_status_charging_lower">Cargando</string>
   <string name="battery_info_status_discharging">No está cargando</string>
@@ -1167,7 +1167,7 @@
   <string name="qs_rearrange">Reorganizar ajustes rápidos</string>
   <string name="quick_settings">Ajustes rápidos</string>
   <string name="quick_settings_autobrightness_label">Brillo automático</string>
-  <string name="quick_settings_batterysaver_label">Ahorrador de batería</string>
+  <string name="quick_settings_batterysaver_label">Ahorro de batería</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
@@ -1215,7 +1215,7 @@
   <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">Editar</string>
   <string name="quick_settings_flashlight_label">Linterna</string>
-  <string name="quick_settings_hotspot_label">Hotspot</string>
+  <string name="quick_settings_hotspot_label">Punto de acceso</string>
   <string name="quick_settings_ime_label">Método de entrada</string>
   <string name="quick_settings_inversion_label">Invertir colores</string>
   <string name="quick_settings_location_label">Ubicación</string>

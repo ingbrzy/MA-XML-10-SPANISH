@@ -1152,4 +1152,32 @@ es proporcionado principalmente por Ultimate Inc."</string>
 Toque %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
   <string name="wifi_required_title">Debe conectarse a una red Wi-Fi para descargar este archivo</string>
   <string name="ws_ver">4.4</string>
+  <string name="checking_new_version">Comprobando actualizaciones…</string>
+  <string name="connect_now">Conectarse</string>
+  <string name="download_connect_wifi_dialog_message">Necesitas Wi-Fi para descargar esta canción.¿Conectarse ahora?</string>
+  <string name="download_connect_wifi_dialog_title">Conectarse a red Wi-Fi</string>
+  <string name="exo_controls_fastforward_description">Avance rápido</string>
+  <string name="exo_controls_fullscreen_description">Pantalla completa</string>
+  <string name="exo_controls_next_description">Pista siguiente</string>
+  <string name="exo_controls_previous_description">Pista anterior</string>
+  <string name="exo_controls_play_description">Reproducir</string>
+  <string name="exo_controls_pause_description">Pausar</string>
+  <string name="exo_controls_repeat_all_description">Repetir todo</string>
+  <string name="exo_controls_repeat_off_description">Repetir nada</string>
+  <string name="exo_controls_repeat_one_description">Repetir una vez</string>
+  <string name="exo_controls_rewind_description">Rebobinar</string>
+  <string name="exo_controls_shuffle_description">Mezclar</string>
+  <string name="exo_controls_stop_description">Parar</string>
+  <string name="exo_download_completed">Descarga completa</string>
+  <string name="exo_download_description">Descarga</string>
+  <string name="exo_download_downloading">Descargando…</string>
+  <string name="exo_download_failed">Descarga errónea</string>
+  <string name="exo_download_notification_channel_name">Descargas</string>
+  <string name="headset_and_audio_effect_category">Auriculares y efectos de audio</string>
+  <string name="upgrading_in_backstage">Actualizando en segundo plano</string>
+  <string name="is_latest_version">Música está actualizada</string>
+  <string name="view_album">Ver álbum</string>
+  <string name="video_retry_btn">Volver intentar</string>
+  <string name="video_replay_btn">Reproducir de nuevo</string>
+  
 </resources>
